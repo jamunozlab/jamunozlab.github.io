@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Computational physics and data science with an emphasis on atomistic dynamics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Research
+Core research
+=============
+afg
+
+Computational methods
+=============
+asdg
+
+Collaboration with domain experts
+=============
+adg
