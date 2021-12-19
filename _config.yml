@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "jamunozLab | UT El Paso"
 title_separator          : "-"
 name                     : &name "jamunozLab"
-description              : &description "Computational physics and data science"
+description              : &description "jamunozLab | UT El Paso"
 url                      : https://jamunozlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamunozlab.github.io"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0002-9487-0079
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
