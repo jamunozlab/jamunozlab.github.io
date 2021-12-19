@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 Core research
-=============
+--
 afg
 
 Computational methods
-=============
+--
 asdg
 
 Collaboration with domain experts
-=============
+--
 adg
