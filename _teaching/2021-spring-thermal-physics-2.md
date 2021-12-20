@@ -2,7 +2,7 @@
 title: "PHYS 3331 Thermal Physics"
 collection: teaching
 type: "Upper-division thermodynamics and statistical mechanics"
-permalink: /teaching/2021-spring-thermal-physics-2
+permalink: /teaching/2021-spring-thermal-physics-2.md
 venue: "The University of Texas at El Paso"
 date: 2021-01-20
 location: "El Paso, TX"
