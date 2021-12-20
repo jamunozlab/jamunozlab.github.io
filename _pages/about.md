@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational physics and data science with an emphasis on atomistic dynamics"
+title: "Computational physics and data science with a focus on fundamental excitations in solids"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
