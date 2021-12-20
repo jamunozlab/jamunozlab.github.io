@@ -8,4 +8,4 @@ date: 2021-08-20
 location: "El Paso, TX"
 ---
 
-This course is available for free on kudu.com upon request. It consists of twenty-seven 90-minute lectures and corresponding lecture notes. It covers the first six chapters of "Mechanics" by Goldstein et al. This course was taught in Fall 2021 at The University of Texas of El Paso. Send an email if you are interested in getting access.
+This course is available for free on kudu.com upon request. It consists of twenty-seven 90-minute lectures and corresponding lecture notes. It covers the first six chapters of "Classical Mechanics" by Goldstein, Poole, & Safko. This course was taught in Fall 2021 at The University of Texas of El Paso. Send an email if you are interested in getting access.
