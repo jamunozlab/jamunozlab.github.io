@@ -2,7 +2,7 @@
 title: "PHYS 3359 Astrophysics"
 collection: teaching
 type: "Upper-division astrophysics"
-permalink: /teaching/2020-fall-teaching-1.md
+permalink: /teaching/2020-fall-teaching-1
 venue: "The University of Texas at El Paso"
 date: 2020-08-20
 location: "El Paso, TX"
