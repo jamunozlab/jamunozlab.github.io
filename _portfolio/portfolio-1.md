@@ -1,0 +1,15 @@
+---
+title: "Current graduate students"
+excerpt: ""
+collection: portfolio
+---
+
+        <ul>
+            
+            <li> &ensp; Valeria I. Arteaga (co-mentored with Prof. Ramon Ravelo)</li>
+            
+            <li> &ensp; Homero Reyes</li>
+            
+            <li> &ensp; Vanessa Meraz. The University of Texas at El Paso, El Paso, TX, B.S (2020);</li>
+            
+        </ul>
