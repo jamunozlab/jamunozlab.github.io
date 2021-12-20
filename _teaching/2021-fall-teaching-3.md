@@ -1,7 +1,7 @@
 ---
 title: "PHYS 5321 Mechanics"
 collection: teaching
-type: "Graduate level mechanics"
+type: "Graduate-level mechanics"
 permalink: /teaching/2021-fall-teaching-3.md
 venue: "The University of Texas at El Paso"
 date: 2021-08-20
