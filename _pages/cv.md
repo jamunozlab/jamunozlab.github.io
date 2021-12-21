@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+                
+<img src='/images/jamunoz.png' width="200" height="200"><br/>      
+<hr>
 
 Education
 ======
