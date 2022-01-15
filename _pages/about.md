@@ -21,9 +21,9 @@ The ions in a material get closer together when the material is squeezed with pr
 
 Computational physics and data science 
 --
-We develop computational methods to extract information, typically from dynamics simulations data, about how crystal lattices interact with excitations and about the thermodynamics and transport properties of the systems. We also use these data to train machine learning models, currently based on either equivariant neural networks or mathematical graphs with marginalized graph kernels, and use the models to extend the simulation time and time resolution of the dynamics simulations. Finally, we use statistical analysis and data science techniques to make robust conclusions on our data. 
+We develop computational methods to extract information, typically from dynamics simulations data, about how crystal lattices interact with excitations and about the thermodynamics and transport properties of the systems. We also use these data to train machine learning models, currently based on either equivariant neural networks or mathematical graphs with marginalized graph kernels, and use the models to extend the reach of the dynamics simulations. Finally, we use statistical analysis and data science techniques to make robust conclusions on our data. 
 
 
-Collaboration with domain experts
+Other research topics 
 --
-Enabling
+Our expertise in simulation of physical phenomena, machine learning, and data science, allow us to establish productive collaborations with domain experts in other areas. Members of our group are often co-mentored by faculty members and scientists who are experts in other areas. In the past we have studied atmospheric turbulence and propagation of light in turbulent media. We currently have active collaborations on neutron stars and nuclear astrophysics, analysis of data from particle colliders, and more. 
