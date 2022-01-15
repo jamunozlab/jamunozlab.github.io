@@ -19,9 +19,10 @@ The main question we try to answer in our group is: what happens when you squeez
 The ions in a material get closer together when the material is squeezed with pressure, but the arrangement of the electrons also changes. Atomic vibrations are quantized (called phonons) and patterns of atomic vibrations can interact with electrons and with other degrees of freedom such as spin. Pressure therefore changes how atoms vibrate in non-trivial ways. Temperature is related to the kinetic energy of the ions in the system, so at higher temperature the displacements of the atoms about their equilibrium positions are larger. Thermal disorder and large atomic displacements can significantly modify the quadratic potential picture. The question posed above seems innocuous enough, but it leads to the discovery of new physics. 
 --->
 
-Computational methods and machine learning
+Computational physics and data science 
 --
-Modern machine learning 
+We develop computational methods to extract information, typically from dynamics simulations data, about how crystal lattices interact with excitations and about the thermodynamics and transport properties of the systems. We also use these data to train machine learning models, currently based on either equivariant neural networks or mathematical graphs with marginalized graph kernels, and use the models to extend the simulation time and time resolution of the dynamics simulations. Finally, we use statistical analysis and data science techniques to make robust conclusions on our data. 
+
 
 Collaboration with domain experts
 --
