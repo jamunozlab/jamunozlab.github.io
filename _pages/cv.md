@@ -11,6 +11,7 @@ redirect_from:
 
                 
 <img src='/images/jamunoz.png' width="200" height="200"><br/>      
+Jorge Munoz<br/>     
 <hr>
 
 Work experience
