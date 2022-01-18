@@ -15,7 +15,7 @@ redirect_from:
 
 Work experience
 ======
-* August 2018 - Present: Assistant Professor in the Department of Physics at The University of Texas at El Paso
+* August 2018 - Present: Assistant Professor of Physics at The University of Texas at El Paso
 * August 2014 - August 2018: Scientist in Algorithms Pathfinding at Intel Corporation
 * July 2013 - August 2014: Engineer in Computer Aided Design at Intel Corporation
 
