@@ -37,5 +37,5 @@ Faculty Summer Research Fellowships
 
 Service
 ======
-* March 2021 - Present: Member-at-large of the Executive Committee of the American Physical Society (APS) Division of Materials Physics
+* March 2021 - February 2024: Member-at-large of the Executive Committee of the American Physical Society (APS) Division of Materials Physics
 * April 2018 - Dec 2020: Member-at-large of the Executive Committee of the American Physical Society (APS) Forum on Physics and Society
