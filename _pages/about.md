@@ -26,4 +26,4 @@ We develop computational methods to extract information, typically from dynamics
 
 Other research topics 
 --
-Our expertise in simulation of physical phenomena, machine learning, and data science, allow us to establish productive collaborations with domain experts in other fields. Members of our group are often co-mentored by faculty members and scientists who are experts in other areas. In the past we have studied atmospheric turbulence and propagation of light in turbulent media. We currently have active collaborations on neutron stars and nuclear astrophysics, analysis of data from particle colliders, and more. 
+Our expertise in simulation of physical phenomena, machine learning, and data science, allows us to establish productive collaborations with domain experts in other fields. Members of our group are often co-mentored by faculty members and scientists who are experts in other areas. In the past we have studied atmospheric turbulence and propagation of light in turbulent media. We currently have active collaborations on neutron stars and nuclear astrophysics, analysis of data from particle colliders, geoinformatics, and more. 
