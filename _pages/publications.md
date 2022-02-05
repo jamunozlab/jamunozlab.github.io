@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can find our articles on <a href="{{author.googlescholar}}">Google Scholar</a>.
+You can find all of our articles on <a href="https://scholar.google.com/citations?hl=en&user=WuhQfUYAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>. Here you can find some of our papers divided by topic.
 
 <hr>
 
