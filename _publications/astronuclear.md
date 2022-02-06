@@ -8,6 +8,16 @@ date: 2022-01-01
 
 <hr>
 
+**Equilibrium constants of nuclear reactions in supernova explosions**
+
+We study the change in internal rotational energy in the transformation of protons to neutrons in the β-decay reactions that take place in the collapse of the iron core of massive stars that precede type II supernova explosions. We consider an ensemble of electrons, protons, neutrons and neutrinos undergoing β-decay reactions, treat the protons and neutrons as triatomic rotors, evaluate the equilibrium constant to obtain the change in rotational energy during the proton-to-neutron transformation. We estimate such change for a variety of conditions, and compare to the energy released in a supernova explosion
+
+[Download paper here](https://arxiv.org/pdf/2104.01658.pdf)
+
+J.A. Muñoz, M.A. Garcia, J.A. Lopez. Submitted to Int. J. Mod. Phys. E
+
+<hr>
+
 **Machine learning Minkowski functionals of neutron star crusts**
 
 We study the structures attained by neutron star matter with proton to neutron ratios ranging from x = 0.05 to 0.5, densities in the range of 0.04 fm^−3 < ρ < 0.08 fm^−3, and temperatures T < 4 MeV. In particular, since the Minkowski functionals are related to the morphology of the the pasta shapes, we study their variation at those densities, temperatures and proton contents using machine learning technology.
