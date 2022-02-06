@@ -8,9 +8,17 @@ date: 2022-01-01
 
 <hr>
 
-**Analytical expression and neural network study of the symmetry energy**
+**Machine learning Minkowski functionals of neutron star crusts**
 
-**Test**
+We study the structures attained by neutron star matter with proton to neutron ratios ranging from x = 0.05 to 0.5, densities in the range of 0.04 fm^−3 < ρ < 0.08 fm^−3, and temperatures T < 4 MeV. In particular, since the Minkowski functionals are related to the morphology of the the pasta shapes, we study their variation at those densities, temperatures and proton contents using machine learning technology.
+
+[Download paper here](https://iopscience.iop.org/article/10.1088/1742-6596/1643/1/012054/pdf)
+
+J.A. Lopez, J.A. Muñoz, C.O. Dorso, and G.A. Frank. Journal of Physics: Conference Series 1643, 012054 (2020)
+
+<hr>
+
+**Analytical expression and neural network study of the symmetry energy**
 
 Motivated by classical molecular dynamics simulations of infinite nuclear sys- tems with varying density, temperature and isospin content, an analytical ex- pression that approximates the symmetry energy at subcritical densities is ob- tained. Similarly a neural network is used to evaluate the symmetry energy in the same temperature-density regime. The resulting expression and neural network can both be used to calculate the symmetry energy at a given density and temperature or, conversely, to extract the temperature of experimental data.
 
