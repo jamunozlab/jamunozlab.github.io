@@ -9,6 +9,7 @@ date: 2022-01-01
 <hr>
 
 **Analytical expression and neural network study of the symmetry energy**
+
 **Test**
 
 Motivated by classical molecular dynamics simulations of infinite nuclear sys- tems with varying density, temperature and isospin content, an analytical ex- pression that approximates the symmetry energy at subcritical densities is ob- tained. Similarly a neural network is used to evaluate the symmetry energy in the same temperature-density regime. The resulting expression and neural network can both be used to calculate the symmetry energy at a given density and temperature or, conversely, to extract the temperature of experimental data.
