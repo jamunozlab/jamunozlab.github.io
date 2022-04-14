@@ -30,11 +30,11 @@ Faculty Summer Research Fellowships
 Education
 ======
 * Ph.D. in Materials Science, Caltech, June 2013
-  * Thesis: [Electronic structure and phonon thermodynamics of iron alloys](https://thesis.library.caltech.edu/7810/)
-  * Advisor: [Brent Fultz](https://en.wikipedia.org/wiki/Brent_Fultz)
+<!---  *   * Thesis: [Electronic structure and phonon thermodynamics of iron alloys](https://thesis.library.caltech.edu/7810/)  --->
+<!---  *   * Advisor: [Brent Fultz](https://en.wikipedia.org/wiki/Brent_Fultz)  --->
 * M.S. in Materials Science, Caltech, June 2009
 * B.S. in Physics, Applied Mathematics (double major), The University of Texas at El Paso, May 2007
-  * Thesis: Heat capacity and anharmonicity in vanadium and V<sub>93</sub>Co<sub>7</sub>
+<!---  *   * Thesis: Heat capacity and anharmonicity in vanadium and V<sub>93</sub>Co<sub>7</sub>  --->
 
 Service
 ======
