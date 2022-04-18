@@ -16,7 +16,7 @@ Jorge Munoz<br/>
 
 Work experience
 ======
-* August 2018 - Present: Assistant Professor of Physics at The University of Texas at El Paso
+* August 2018 - Present: Assistant Professor of Physics at The University of Texas at El Paso (UTEP)
 * August 2014 - August 2018: Data scientist in Algorithms Pathfinding at Intel Corporation
 * July 2013 - August 2014: Engineer in Computer Aided Design at Intel Corporation
 
@@ -33,7 +33,7 @@ Education
 <!---  *   * Thesis: [Electronic structure and phonon thermodynamics of iron alloys](https://thesis.library.caltech.edu/7810/)  --->
 <!---  *   * Advisor: [Brent Fultz](https://en.wikipedia.org/wiki/Brent_Fultz)  --->
 * M.S. in Materials Science, California Institute of Technology (Caltech), June 2009
-* B.S. in Physics, Applied Mathematics (double major), The University of Texas at El Paso, May 2007
+* B.S. in Physics, Applied Mathematics (double major), The University of Texas at El Paso (UTEP), May 2007
 <!---  *   * Thesis: Heat capacity and anharmonicity in vanadium and V<sub>93</sub>Co<sub>7</sub>  --->
 
 Service
