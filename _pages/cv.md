@@ -51,8 +51,8 @@ Service
 
 Publications
 ======
-Please see my [GoogleScholar Profile](https://scholar.google.com/citations?hl=en&user=WuhQfUYAAAAJ&view_op=list_works&sortby=pubdate)
+Author or co-author of 35 peer-reviewed publications and inventor or co-inventor of 3 US patents. Please see my [GoogleScholar Profile](https://scholar.google.com/citations?hl=en&user=WuhQfUYAAAAJ&view_op=list_works&sortby=pubdate)
 
 Full CV
 ======
-Available [here]([url](https://jamunozlab.github.io/files/CV_Munoz.pdf)).
+Available [here](https://jamunozlab.github.io/files/CV_Munoz.pdf).
