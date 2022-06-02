@@ -11,7 +11,7 @@ redirect_from:
 
                 
 <img src='/images/jamunoz.png' width="200" height="200"><br/>      
-Jorge Munoz<br/>     
+Jorge Munoz (jamunoz@utep.edu)<br/>     
 <hr>
 
 Work experience
