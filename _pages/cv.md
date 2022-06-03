@@ -12,8 +12,6 @@ redirect_from:
                 
 <img src='/images/jamunoz.png' width="200" height="200"><br/>      
 Jorge Munoz (jamunoz@utep.edu)<br/>   
-Assistant professor, Department of Physics, The University of Texas at El Paso (UTEP)<br/>  
-Physical Sciences Building 312C, 500 West University Avenue, El Paso, TX 79968<br/> 
 <hr>
 
 Work experience
