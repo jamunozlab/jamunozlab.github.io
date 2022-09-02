@@ -30,4 +30,4 @@ Our expertise in simulation of physical phenomena, machine learning, and data sc
 
 Funding
 --
-<img src='/images/RGB_Color-Seal_Green-Mark_SC_Horizontal.png' width="350" height="60"> <img src='/images/NSF-Logo-1efvspb.png' width="100" height="100"> <img src='/images/rcsa_logo.png' width="476" height="146">
+<img src='/images/RGB_Color-Seal_Green-Mark_SC_Horizontal.png' width="350" height="60"> &nbsp; &nbsp; <img src='/images/NSF-Logo-1efvspb.png' width="100" height="100"> &nbsp; &nbsp; <img src='/images/rcsa_logo.png' width="476" height="146">
