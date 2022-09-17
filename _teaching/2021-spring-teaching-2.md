@@ -1,5 +1,5 @@
 ---
-title: "PHYS 3331 Thermal Physics"
+title: "Upper-division thermal physics"
 collection: teaching
 type: "Upper-division thermal physics"
 permalink: /teaching/2021-spring-teaching-2
