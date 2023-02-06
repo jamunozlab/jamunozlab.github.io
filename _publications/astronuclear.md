@@ -14,7 +14,7 @@ We study the change in internal rotational energy in the transformation of proto
 
 [Download paper here](https://arxiv.org/pdf/2104.01658.pdf)
 
-J.A. Muñoz, M.A. Garcia, J.A. Lopez. Submitted to Int. J. Mod. Phys. E
+J.A. Muñoz, M.A. Garcia, J.A. Lopez. Int. J. Mod. Phys. E 31, 2250018 (2022)
 
 <hr>
 
