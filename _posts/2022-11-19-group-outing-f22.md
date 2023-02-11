@@ -6,6 +6,5 @@ tags:
   - Group outing
   - Fun
 ---
-We went out for a hike and put some stuff on the grill to eat. <br/> 
+Munoz group and friends. We went out for a hike and put some stuff on the grill to eat. <br/> 
 <img src='/images/group_fall_2022.jpg' width="800" height="600"><br/>     
-
