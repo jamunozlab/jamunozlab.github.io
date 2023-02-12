@@ -1,5 +1,5 @@
 ---
-title: 'Group Outing Fall 2022'
+title: 'Group Outing Fall 2021'
 date: 2021-10-15
 permalink: /posts/2021/10/group-outing-f21/
 tags:
