@@ -38,3 +38,13 @@ Molecular dynamics simulations of Fe–V binary alloys with body-centered cubic 
 Cesar Diaz-Caraveo, Bimal K C and Jorge A Muñoz San Martín. J. Phys.: Condens. Matter 36, 445401 (2024).
 
 <hr>
+
+**Performance-Dryout Limits of Oscillating Heat Pipes: A Comprehensive Theoretical and Experimental Determination**
+
+The performance limits of oscillating heat pipes (OHPs) have been the subject of research in recent years in order to understand their limitations and allow their broad application in the aerospace field. The present work describes the experimental determination of the performance dryout limits for an additively manufactured OHP geometry filled with R-134a and R-123, as well as the performance limits theoretical predictions using a recently developed analytical approach. Thermal experiments were carried out using a constant-temperature cold-plate approach at three cold plate temperatures, allowing the OHP device to reach steady state for each power step. Results show good agreement for the performance limits predictions with experimental data for both working fluids R-134a and R-123, opening the way for the analytical framework to be used in the design and development of OHPs.
+
+[Download paper here](https://arc.aiaa.org/doi/abs/10.2514/1.T6955)
+
+Cesar Diaz-Caraveo, Kieran Wolk, Spencer Miesner, Maxwell Montemayor, Arturo Rodriguez, Vinod Kumar, Jorge A. Muñoz, Takuro Daimaru, Benjamin I. Furst, and Scott N. Roberts. Journal of Thermophysics and Heat Transfer 39, 289 (2025).
+
+<hr>
