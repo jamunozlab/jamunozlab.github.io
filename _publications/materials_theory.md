@@ -3,7 +3,7 @@ title: "Materials theory"
 collection: publications
 permalink: /publication/materials_theory
 excerpt: 'Materials theory and computational methods'
-date: 2026-03-18
+date: 2023-02-02
 
 ---
 
