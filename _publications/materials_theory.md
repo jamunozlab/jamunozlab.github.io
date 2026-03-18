@@ -1,9 +1,9 @@
 ---
-title: "Materials theory"
+title: "Materials physics"
 collection: publications
 permalink: /publication/materials_theory
 excerpt: 'Materials theory and computational methods'
-date: 2023-02-02
+date: 2026-03-18
 
 ---
 
@@ -26,5 +26,15 @@ X-ray diffraction measurements of equiatomic B2-ordered FeV were performed in a 
 [Download paper here](https://doi.org/10.1063/5.0219881)
 
 Homero Reyes-Pulido, Bimal K C, Ravhi S. Kumar, Russell J. Hemley, and Jorge A. Muñoz. AIP Advances 14, 075108 (2024).
+
+<hr>
+
+**Lattice dynamics and free energies of Fe–V alloys with thermal and chemical disorder**
+
+Molecular dynamics simulations of Fe–V binary alloys with body-centered cubic as the underlying lattice were performed using a classical potential for chemically ordered and disordered states at finite temperatures for a common set of volumes. The equation of state was fitted to the computational data to obtain temperature- and chemical-order-dependent state functions via the Moruzzi-Janak-Schwarz approximation. Additionally, vibrational entropies that account for both thermal and chemical disorder were calculated for the equiatomic compositions from phonon density-of-states curves computed using effective force constants obtained from fits to the simulations. The latter predicts that the vibrational entropy at room temperature at equiatomicity is higher for the ordered phase than for the solid solution, a peculiar behavior previously observed experimentally. The internal energy of mixing favors ordering at all compositions, with a maximum at equiatomicity that decreases as the solute concentration decreases. The configurational entropy contribution to the free energy of mixing is almost entirely responsible for the stability of the high-temperature disordered phase.
+
+[Download paper here](https://iopscience.iop.org/article/10.1088/1361-648X/ad66a5)
+
+Cesar Diaz-Caraveo, Bimal K C and Jorge A Muñoz San Martín. J. Phys.: Condens. Matter 36, 445401 (2024).
 
 <hr>
