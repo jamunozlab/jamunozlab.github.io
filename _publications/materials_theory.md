@@ -1,7 +1,7 @@
 ---
-title: "Materials physics"
+title: "Materials theory"
 collection: publications
-permalink: /publication/materials_physics
+permalink: /publication/materials_theory
 excerpt: 'Materials theory and computational methods'
 date: 2026-03-18
 
