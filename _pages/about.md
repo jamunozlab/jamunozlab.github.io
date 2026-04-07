@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational physics and data science with a focus on fundamental excitations in solids"
+title: "Computational and scientific machine learning methods for nuclear and atomic matter thermodynamics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
