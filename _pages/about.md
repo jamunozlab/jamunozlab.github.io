@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computational and scientific machine learning methods for nuclear and atomic matter thermodynamics"
+title: "Computational methods for nuclear and materials physics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
