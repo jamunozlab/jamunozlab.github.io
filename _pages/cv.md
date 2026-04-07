@@ -17,7 +17,7 @@ Jorge Munoz (jamunoz@utep.edu)<br/>
 Work experience
 ======
 * September 2025 - Present: Associate Professor of Physics at The University of Texas at El Paso 
-* September 2018 - August 2025 - Assistant Professor of Physics at The University of Texas at El Paso 
+* September 2018 - August 2025: Assistant Professor of Physics at The University of Texas at El Paso 
 * August 2014 - August 2018: Data scientist in Algorithms Pathfinding at Intel Corporation
 * July 2013 - August 2014: Engineer in Computer Aided Design at Intel Corporation
 
